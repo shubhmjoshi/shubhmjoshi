@@ -203,7 +203,7 @@ p{
 
 /*hero section */
 #hero{
-    background-image: url(/images/hero-bg.png);
+    background-image: url(./images/hero-bg.png);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -326,7 +326,7 @@ p{
     flex-direction: column;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(/images/img-1.png);
+    background-image: url(./images/img-1.png);
     background-size: cover;
     margin: 10px 5%;
     position: relative;
